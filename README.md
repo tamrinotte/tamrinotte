@@ -1,4 +1,4 @@
-# Welcome to Tamrinotte's open source project hub 👋 
+# Welcome to Tamrinotte's Open Source Project Hub 👋 
 
 Please don't be shy to share what ever you have done. And, please follow the coding conventions. 
 
